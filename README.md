@@ -1,12 +1,12 @@
-Teste API Indie Campers
+<strong>Teste API Indie Campers</strong>
 
-TRIP ID 1
+<strong>TRIP ID 1</strong>
 
-From: Lisboa
-To: Porto
+<strong>From:</strong> Lisboa
+<strong>To:</strong> Porto
 
-TRIP ID 2
+<strong>TRIP ID 2</strong>
 
-From: Coimbra
-To: Algarve
+<strong>From:</strong> Coimbra
+<strong>To:</strong> Algarve
 
